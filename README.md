@@ -10,7 +10,7 @@ I am deeply curious about new technologies, and how and where these can be used 
 
 Oh, if you prefer all the business-terminology and hyping all the achievements one has ever come close to, you might enjoy [my linkedin profile](https://www.linkedin.com/in/david-yenicelik/) better. 
 
-Please reach out to me on LinkedIn or on Telegram for any inquiries. I like to connect with life-minded, driven and passionate people, and support you in any way I can. 
+Please reach out to me on LinkedIn for any inquiries. I like to connect with life-minded, driven and passionate people, and support you in any way I can. 
 
 
 <!-- -->
