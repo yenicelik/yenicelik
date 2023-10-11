@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David, a software engineering with a strong background in machine learning and startups. I'm pretty active on [stackoverflow](https://stackoverflow.com/users/3262787/davetheal), having literally checked in everyday for 5 years. Ping me if I can help with upvoting a question. 
+I'm David, a software engineer with a strong background in machine learning and startups. I'm pretty active on [stackoverflow](https://stackoverflow.com/users/3262787/davetheal), having literally checked in everyday for 5 years. Ping me if I can help with upvoting a question. 
 
 I am deeply curious about new technologies, and how and where these can be used to drive impact. Some topics I've covered in the past:
 
